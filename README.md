@@ -32,13 +32,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="git" alt="atom" width="40" height="40"/>&nbsp;
 
 ---
 
 ## :wrench: Инструменты:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -52,8 +52,11 @@
 
 <table>
   <tr>
+  <td>
+    <img height="195px" align="left" alt="GitHub Streak Stats" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-PatrakeevM&theme=dark&background=000000)](https://git.io/streak-stats)" />
+  </td>
     <td>
-      <img height="195px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PatrakeevM&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PatrakeevM&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
