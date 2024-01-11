@@ -1,7 +1,7 @@
 # Привет, меня зовут Матвей! 👋 [![Telegram Badge](https://img.shields.io/badge/-Mpatrakeev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mpatrakeev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:patrakeev.matvej@bk.ru)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" height="200" width="700"/>
+  <img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" height="200" width="900"/>
 </div>
 
 ## :information_desk_person: Обо мне:
