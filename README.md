@@ -1,5 +1,8 @@
 # Привет, меня зовут Матвей! 👋 [![Telegram Badge](https://img.shields.io/badge/-Mpatrakeev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mpatrakeev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:patrakeev.matvej@bk.ru)
 
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh" width="100"/>
+</div>
 
 ## :information_desk_person: Обо мне:
 
@@ -48,11 +51,8 @@
 
 <table>
   <tr>
-  <td>
-    <img height="195px" align="left" alt="GitHub Productive Card" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrakeevM&theme=vision-friendly-dark&utcOffset=3"/>
-  </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PatrakeevM&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PatrakeevM&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
